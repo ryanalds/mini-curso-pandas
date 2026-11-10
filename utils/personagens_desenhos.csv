@@ -1,0 +1,152 @@
+id,nome,sexo,especie,idade,altura_cm,peso_kg,desenho,ano_estreia,pais_origem,estudio_canal,papel,ocupacao,tem_poderes,cor_principal
+1,Homer Simpson,Masculino,Humano,39,183,108,Os Simpsons,1989,EUA,Fox,Protagonista,Inspetor de segurança,False,Branco
+2,Marge Simpson,Feminino,Humano,36,172,62,Os Simpsons,1989,EUA,Fox,Protagonista,Dona de casa,False,Azul
+3,Bart Simpson,Masculino,Humano,10,122,32,Os Simpsons,1989,EUA,Fox,Protagonista,Estudante,False,Laranja
+4,Lisa Simpson,Feminino,Humano,8,117,25,Os Simpsons,1989,EUA,Fox,Protagonista,Estudante,False,Vermelho
+5,Maggie Simpson,Feminino,Humano,1,74,9,Os Simpsons,1989,EUA,Fox,Coadjuvante,Bebê,False,Azul
+6,Sr. Burns,Masculino,Humano,104,170,52,Os Simpsons,1989,EUA,Fox,Vilão,Empresário,False,Verde
+7,Ned Flanders,Masculino,Humano,60,180,75,Os Simpsons,1989,EUA,Fox,Coadjuvante,Comerciante,False,Verde
+8,Milhouse Van Houten,Masculino,Humano,10,125,30,Os Simpsons,1989,EUA,Fox,Coadjuvante,Estudante,False,Azul
+9,Moe Szyslak,Masculino,Humano,,165,72,Os Simpsons,1989,EUA,Fox,Coadjuvante,Dono de bar,False,Cinza
+10,Krusty o Palhaço,Masculino,Humano,,175,85,Os Simpsons,1989,EUA,Fox,Coadjuvante,Apresentador de TV,False,Verde
+11,Apu Nahasapeemapetilon,Masculino,Humano,,172,70,Os Simpsons,1989,EUA,Fox,Coadjuvante,Comerciante,False,Verde
+12,Bob Esponja,Masculino,Esponja-do-mar,,10,0.2,Bob Esponja,1999,EUA,Nickelodeon,Protagonista,Cozinheiro,False,Amarelo
+13,Patrick Estrela,Masculino,Estrela-do-mar,,12,0.4,Bob Esponja,1999,EUA,Nickelodeon,Protagonista,Nenhuma,False,Rosa
+14,Lula Molusco,Masculino,Polvo,,20,0.9,Bob Esponja,1999,EUA,Nickelodeon,Coadjuvante,Caixa,False,Azul
+15,Sr. Siriguejo,Masculino,Caranguejo,,12,0.7,Bob Esponja,1999,EUA,Nickelodeon,Coadjuvante,Empresário,False,Vermelho
+16,Sandy Bochechas,Feminino,Esquilo,,25,0.6,Bob Esponja,1999,EUA,Nickelodeon,Coadjuvante,Cientista,False,Marrom
+17,Plankton,Masculino,Plâncton,,0.3,0.0001,Bob Esponja,1999,EUA,Nickelodeon,Vilão,Empresário,False,Verde
+18,Gary,Masculino,Caracol,,6,0.1,Bob Esponja,1999,EUA,Nickelodeon,Coadjuvante,Animal de estimação,False,Rosa
+19,Scooby-Doo,Masculino,Cachorro,7,85,65,Scooby-Doo,1969,EUA,Hanna-Barbera,Protagonista,Detetive,False,Marrom
+20,Salsicha,Masculino,Humano,17,185,63,Scooby-Doo,1969,EUA,Hanna-Barbera,Protagonista,Detetive,False,Verde
+21,Fred Jones,Masculino,Humano,17,183,78,Scooby-Doo,1969,EUA,Hanna-Barbera,Coadjuvante,Detetive,False,Branco
+22,Daphne Blake,Feminino,Humano,16,170,55,Scooby-Doo,1969,EUA,Hanna-Barbera,Coadjuvante,Detetive,False,Roxo
+23,Velma Dinkley,Feminino,Humano,15,155,52,Scooby-Doo,1969,EUA,Hanna-Barbera,Coadjuvante,Detetive,False,Laranja
+24,Fred Flintstone,Masculino,Humano,,168,100,Os Flintstones,1960,EUA,Hanna-Barbera,Protagonista,Operador de pedreira,False,Laranja
+25,Wilma Flintstone,Feminino,Humano,,163,58,Os Flintstones,1960,EUA,Hanna-Barbera,Protagonista,Dona de casa,False,Branco
+26,Barney Rubble,Masculino,Humano,,150,70,Os Flintstones,1960,EUA,Hanna-Barbera,Coadjuvante,Operador de pedreira,False,Marrom
+27,Betty Rubble,Feminino,Humano,,160,52,Os Flintstones,1960,EUA,Hanna-Barbera,Coadjuvante,Dona de casa,False,Azul
+28,Dino,Masculino,Dinossauro,,150,300,Os Flintstones,1960,EUA,Hanna-Barbera,Coadjuvante,Animal de estimação,False,Roxo
+29,Pedrita,Feminino,Humano,1,75,9,Os Flintstones,1960,EUA,Hanna-Barbera,Coadjuvante,Bebê,False,Laranja
+30,Pernalonga,Masculino,Coelho,,100,25,Looney Tunes,1930,EUA,Warner Bros,Protagonista,Nenhuma,False,Cinza
+31,Patolino,Masculino,Pato,,90,15,Looney Tunes,1930,EUA,Warner Bros,Protagonista,Nenhuma,False,Preto
+32,Gaguinho,Masculino,Porco,,95,30,Looney Tunes,1930,EUA,Warner Bros,Coadjuvante,Nenhuma,False,Rosa
+33,Frajola,Masculino,Gato,,90,12,Looney Tunes,1930,EUA,Warner Bros,Vilão,Nenhuma,False,Preto
+34,Piu-Piu,Masculino,Canário,,15,0.3,Looney Tunes,1930,EUA,Warner Bros,Protagonista,Animal de estimação,False,Amarelo
+35,Taz,Masculino,Diabo-da-tasmânia,,110,45,Looney Tunes,1930,EUA,Warner Bros,Coadjuvante,Nenhuma,True,Marrom
+36,Papa-Léguas,Masculino,Ave,,60,0.5,Looney Tunes,1930,EUA,Warner Bros,Protagonista,Nenhuma,True,Azul
+37,Coiote,Masculino,Coiote,,120,20,Looney Tunes,1930,EUA,Warner Bros,Vilão,Nenhuma,False,Marrom
+38,Mickey Mouse,Masculino,Rato,,85,25,Mickey Mouse,1928,EUA,Disney,Protagonista,Nenhuma,False,Vermelho
+39,Minnie Mouse,Feminino,Rato,,80,23,Mickey Mouse,1928,EUA,Disney,Protagonista,Nenhuma,False,Rosa
+40,Pato Donald,Masculino,Pato,,85,20,Mickey Mouse,1928,EUA,Disney,Coadjuvante,Marinheiro,False,Azul
+41,Pateta,Masculino,Cachorro,,185,70,Mickey Mouse,1928,EUA,Disney,Coadjuvante,Nenhuma,False,Laranja
+42,Pluto,Masculino,Cachorro,,60,20,Mickey Mouse,1928,EUA,Disney,Coadjuvante,Animal de estimação,False,Amarelo
+43,Mônica,Feminino,Humano,7,115,22,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Protagonista,Estudante,False,Vermelho
+44,Cebolinha,Masculino,Humano,7,110,20,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Protagonista,Estudante,False,Verde
+45,Cascão,Masculino,Humano,7,112,21,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Coadjuvante,Estudante,False,Amarelo
+46,Magali,Feminino,Humano,7,110,19,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Coadjuvante,Estudante,False,Amarelo
+47,Chico Bento,Masculino,Humano,,115,22,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Coadjuvante,Estudante,False,Amarelo
+48,Bidu,Masculino,Cachorro,,40,10,Turma da Mônica,1959,Brasil,Mauricio de Sousa Produções,Coadjuvante,Animal de estimação,False,Azul
+49,Finn,Masculino,Humano,12,130,30,Hora de Aventura,2010,EUA,Cartoon Network,Protagonista,Aventureiro,False,Azul
+50,Jake,Masculino,Cachorro,28,60,15,Hora de Aventura,2010,EUA,Cartoon Network,Protagonista,Aventureiro,True,Amarelo
+51,Princesa Jujuba,Feminino,Doce,18,165,50,Hora de Aventura,2010,EUA,Cartoon Network,Coadjuvante,Princesa,False,Rosa
+52,Marceline,Feminino,Vampiro,1000,170,50,Hora de Aventura,2010,EUA,Cartoon Network,Coadjuvante,Musicista,True,Preto
+53,Rei Gelado,Masculino,Humano,1043,180,70,Hora de Aventura,2010,EUA,Cartoon Network,Vilão,Rei,True,Azul
+54,BMO,Indefinido,Robô,,40,5,Hora de Aventura,2010,EUA,Cartoon Network,Coadjuvante,Videogame,False,Verde
+55,Goku,Masculino,Saiyajin,23,175,62,Dragon Ball Z,1989,Japão,Toei Animation,Protagonista,Lutador,True,Laranja
+56,Vegeta,Masculino,Saiyajin,29,164,56,Dragon Ball Z,1989,Japão,Toei Animation,Coadjuvante,Príncipe,True,Azul
+57,Gohan,Masculino,Meio-saiyajin,4,95,18,Dragon Ball Z,1989,Japão,Toei Animation,Coadjuvante,Estudante,True,Roxo
+58,Piccolo,Masculino,Namekuseijin,,226,116,Dragon Ball Z,1989,Japão,Toei Animation,Coadjuvante,Lutador,True,Verde
+59,Kuririn,Masculino,Humano,23,153,45,Dragon Ball Z,1989,Japão,Toei Animation,Coadjuvante,Lutador,True,Laranja
+60,Bulma,Feminino,Humano,28,165,49,Dragon Ball Z,1989,Japão,Toei Animation,Coadjuvante,Cientista,False,Azul
+61,Freeza,Masculino,Alien,,153,53,Dragon Ball Z,1989,Japão,Toei Animation,Vilão,Imperador,True,Branco
+62,Naruto Uzumaki,Masculino,Humano,12,145,40,Naruto,2002,Japão,Studio Pierrot,Protagonista,Ninja,True,Laranja
+63,Sasuke Uchiha,Masculino,Humano,12,153,43,Naruto,2002,Japão,Studio Pierrot,Coadjuvante,Ninja,True,Azul
+64,Sakura Haruno,Feminino,Humano,12,150,36,Naruto,2002,Japão,Studio Pierrot,Coadjuvante,Ninja,True,Rosa
+65,Kakashi Hatake,Masculino,Humano,26,181,68,Naruto,2002,Japão,Studio Pierrot,Coadjuvante,Ninja,True,Verde
+66,Gaara,Masculino,Humano,12,148,40,Naruto,2002,Japão,Studio Pierrot,Coadjuvante,Ninja,True,Vermelho
+67,Orochimaru,Masculino,Humano,51,179,56,Naruto,2002,Japão,Studio Pierrot,Vilão,Ninja,True,Roxo
+68,Ash Ketchum,Masculino,Humano,10,,,Pokémon,1997,Japão,OLM,Protagonista,Treinador Pokémon,False,Azul
+69,Pikachu,Masculino,Pokémon,,40,6,Pokémon,1997,Japão,OLM,Protagonista,Nenhuma,True,Amarelo
+70,Misty,Feminino,Humano,10,,,Pokémon,1997,Japão,OLM,Coadjuvante,Líder de ginásio,False,Laranja
+71,Brock,Masculino,Humano,15,,,Pokémon,1997,Japão,OLM,Coadjuvante,Líder de ginásio,False,Verde
+72,Meowth,Masculino,Pokémon,,40,4.2,Pokémon,1997,Japão,OLM,Vilão,Membro da Equipe Rocket,True,Bege
+73,Jessie,Feminino,Humano,25,,,Pokémon,1997,Japão,OLM,Vilão,Membro da Equipe Rocket,False,Vermelho
+74,James,Masculino,Humano,25,,,Pokémon,1997,Japão,OLM,Vilão,Membro da Equipe Rocket,False,Azul
+75,Florzinha,Feminino,Humano,5,100,18,As Meninas Superpoderosas,1998,EUA,Cartoon Network,Protagonista,Super-heroína,True,Rosa
+76,Lindinha,Feminino,Humano,5,100,18,As Meninas Superpoderosas,1998,EUA,Cartoon Network,Protagonista,Super-heroína,True,Azul
+77,Docinho,Feminino,Humano,5,100,18,As Meninas Superpoderosas,1998,EUA,Cartoon Network,Protagonista,Super-heroína,True,Verde
+78,Macaco Louco,Masculino,Macaco,,120,50,As Meninas Superpoderosas,1998,EUA,Cartoon Network,Vilão,Cientista,False,Roxo
+79,Professor Utônio,Masculino,Humano,,185,80,As Meninas Superpoderosas,1998,EUA,Cartoon Network,Coadjuvante,Cientista,False,Branco
+80,Dexter,Masculino,Humano,,100,25,O Laboratório de Dexter,1996,EUA,Cartoon Network,Protagonista,Cientista,False,Branco
+81,Dee Dee,Feminino,Humano,,140,30,O Laboratório de Dexter,1996,EUA,Cartoon Network,Coadjuvante,Estudante,False,Rosa
+82,Mandark,Masculino,Humano,,105,25,O Laboratório de Dexter,1996,EUA,Cartoon Network,Vilão,Cientista,False,Preto
+83,Coragem,Masculino,Cachorro,,45,10,Coragem o Cão Covarde,1999,EUA,Cartoon Network,Protagonista,Animal de estimação,False,Rosa
+84,Muriel Bagge,Feminino,Humano,,160,65,Coragem o Cão Covarde,1999,EUA,Cartoon Network,Coadjuvante,Aposentada,False,Verde
+85,Eustácio Bagge,Masculino,Humano,,165,60,Coragem o Cão Covarde,1999,EUA,Cartoon Network,Coadjuvante,Fazendeiro,False,Marrom
+86,Phineas Flynn,Masculino,Humano,10,120,25,Phineas e Ferb,2007,EUA,Disney Channel,Protagonista,Estudante,False,Laranja
+87,Ferb Fletcher,Masculino,Humano,10,150,35,Phineas e Ferb,2007,EUA,Disney Channel,Protagonista,Estudante,False,Verde
+88,Candace Flynn,Feminino,Humano,15,168,52,Phineas e Ferb,2007,EUA,Disney Channel,Coadjuvante,Estudante,False,Vermelho
+89,Perry o Ornitorrinco,Masculino,Ornitorrinco,,45,2,Phineas e Ferb,2007,EUA,Disney Channel,Coadjuvante,Agente secreto,False,Azul
+90,Dr. Doofenshmirtz,Masculino,Humano,,180,70,Phineas e Ferb,2007,EUA,Disney Channel,Vilão,Cientista,False,Branco
+91,Aang,Masculino,Humano,12,137,33,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Protagonista,Avatar,True,Laranja
+92,Katara,Feminino,Humano,14,160,45,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Protagonista,Dobradora de água,True,Azul
+93,Sokka,Masculino,Humano,15,173,60,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Coadjuvante,Guerreiro,False,Azul
+94,Zuko,Masculino,Humano,16,175,65,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Coadjuvante,Príncipe,True,Vermelho
+95,Toph Beifong,Feminino,Humano,12,140,35,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Coadjuvante,Dobradora de terra,True,Verde
+96,Azula,Feminino,Humano,14,165,50,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Vilão,Princesa,True,Vermelho
+97,Appa,Masculino,Bisão voador,,300,4500,Avatar: A Lenda de Aang,2005,EUA,Nickelodeon,Coadjuvante,Animal de estimação,True,Branco
+98,Rick Sanchez,Masculino,Humano,70,180,70,Rick and Morty,2013,EUA,Adult Swim,Protagonista,Cientista,False,Branco
+99,Morty Smith,Masculino,Humano,14,152,50,Rick and Morty,2013,EUA,Adult Swim,Protagonista,Estudante,False,Amarelo
+100,Summer Smith,Feminino,Humano,17,165,55,Rick and Morty,2013,EUA,Adult Swim,Coadjuvante,Estudante,False,Rosa
+101,Beth Smith,Feminino,Humano,34,168,58,Rick and Morty,2013,EUA,Adult Swim,Coadjuvante,Veterinária,False,Vermelho
+102,Jerry Smith,Masculino,Humano,,175,70,Rick and Morty,2013,EUA,Adult Swim,Coadjuvante,Desempregado,False,Verde
+103,Dipper Pines,Masculino,Humano,12,140,32,Gravity Falls,2012,EUA,Disney Channel,Protagonista,Estudante,False,Azul
+104,Mabel Pines,Feminino,Humano,12,142,33,Gravity Falls,2012,EUA,Disney Channel,Protagonista,Estudante,False,Rosa
+105,Tio Stan,Masculino,Humano,,180,95,Gravity Falls,2012,EUA,Disney Channel,Coadjuvante,Comerciante,False,Preto
+106,Bill Cipher,Masculino,Demônio,,,,Gravity Falls,2012,EUA,Disney Channel,Vilão,Nenhuma,True,Amarelo
+107,Ben Tennyson,Masculino,Humano,10,135,30,Ben 10,2005,EUA,Cartoon Network,Protagonista,Herói,True,Verde
+108,Gwen Tennyson,Feminino,Humano,10,135,28,Ben 10,2005,EUA,Cartoon Network,Coadjuvante,Estudante,True,Azul
+109,Vovô Max,Masculino,Humano,,180,100,Ben 10,2005,EUA,Cartoon Network,Coadjuvante,Aposentado,False,Vermelho
+110,Vilgax,Masculino,Alien,,250,300,Ben 10,2005,EUA,Cartoon Network,Vilão,Conquistador,True,Verde
+111,Steven Universo,Masculino,Meio-gem,13,145,45,Steven Universo,2013,EUA,Cartoon Network,Protagonista,Nenhuma,True,Vermelho
+112,Garnet,Feminino,Gem,,220,,Steven Universo,2013,EUA,Cartoon Network,Coadjuvante,Guerreira,True,Vermelho
+113,Ametista,Feminino,Gem,,120,,Steven Universo,2013,EUA,Cartoon Network,Coadjuvante,Guerreira,True,Roxo
+114,Pérola,Feminino,Gem,,180,,Steven Universo,2013,EUA,Cartoon Network,Coadjuvante,Guerreira,True,Branco
+115,Peppa Pig,Feminino,Porco,4,90,20,Peppa Pig,2004,Reino Unido,Astley Baker Davies,Protagonista,Estudante,False,Vermelho
+116,George Pig,Masculino,Porco,2,70,12,Peppa Pig,2004,Reino Unido,Astley Baker Davies,Coadjuvante,Nenhuma,False,Azul
+117,Papai Pig,Masculino,Porco,,180,110,Peppa Pig,2004,Reino Unido,Astley Baker Davies,Coadjuvante,Engenheiro,False,Verde
+118,Mamãe Pig,Feminino,Porco,,165,80,Peppa Pig,2004,Reino Unido,Astley Baker Davies,Coadjuvante,Nenhuma,False,Laranja
+119,Bluey Heeler,Feminino,Cachorro,6,100,20,Bluey,2018,Austrália,Ludo Studio,Protagonista,Estudante,False,Azul
+120,Bingo Heeler,Feminino,Cachorro,4,90,16,Bluey,2018,Austrália,Ludo Studio,Coadjuvante,Estudante,False,Laranja
+121,Bandit Heeler,Masculino,Cachorro,,180,80,Bluey,2018,Austrália,Ludo Studio,Coadjuvante,Arqueólogo,False,Azul
+122,Chilli Heeler,Feminino,Cachorro,,170,65,Bluey,2018,Austrália,Ludo Studio,Coadjuvante,Segurança de aeroporto,False,Laranja
+123,Tom,Masculino,Gato,,90,12,Tom e Jerry,1940,EUA,MGM,Protagonista,Animal de estimação,False,Cinza
+124,Jerry,Masculino,Rato,,15,0.2,Tom e Jerry,1940,EUA,MGM,Protagonista,Nenhuma,False,Marrom
+125,Spike,Masculino,Cachorro,,100,40,Tom e Jerry,1940,EUA,MGM,Coadjuvante,Animal de estimação,False,Cinza
+126,George Jetson,Masculino,Humano,,175,75,Os Jetsons,1962,EUA,Hanna-Barbera,Protagonista,Operário,False,Branco
+127,Jane Jetson,Feminino,Humano,,165,55,Os Jetsons,1962,EUA,Hanna-Barbera,Protagonista,Dona de casa,False,Roxo
+128,Judy Jetson,Feminino,Humano,15,163,50,Os Jetsons,1962,EUA,Hanna-Barbera,Coadjuvante,Estudante,False,Rosa
+129,Elroy Jetson,Masculino,Humano,6,110,22,Os Jetsons,1962,EUA,Hanna-Barbera,Coadjuvante,Estudante,False,Azul
+130,Rosie,Feminino,Robô,,150,200,Os Jetsons,1962,EUA,Hanna-Barbera,Coadjuvante,Empregada doméstica,False,Azul
+131,Astro,Masculino,Cachorro,,90,45,Os Jetsons,1962,EUA,Hanna-Barbera,Coadjuvante,Animal de estimação,False,Marrom
+132,Pica-Pau,Masculino,Pica-pau,,80,5,Pica-Pau,1940,EUA,Walter Lantz Productions,Protagonista,Nenhuma,False,Vermelho
+133,Zeca Urubu,Masculino,Urubu,,150,20,Pica-Pau,1940,EUA,Walter Lantz Productions,Vilão,Nenhuma,False,Preto
+134,Hank,Masculino,Humano,15,180,70,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Arqueiro,True,Verde
+135,Eric,Masculino,Humano,15,175,68,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Cavaleiro,True,Vermelho
+136,Diana,Feminino,Humano,13,165,50,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Acrobata,True,Laranja
+137,Presto,Masculino,Humano,14,165,55,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Mago,True,Verde
+138,Sheila,Feminino,Humano,13,160,48,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Ladra,True,Roxo
+139,Bobby,Masculino,Humano,9,130,30,Caverna do Dragão,1983,EUA,Marvel Productions,Protagonista,Bárbaro,True,Vermelho
+140,Uni,Feminino,Unicórnio,,60,25,Caverna do Dragão,1983,EUA,Marvel Productions,Coadjuvante,Animal de estimação,True,Branco
+141,Mestre dos Magos,Masculino,Humano,,90,25,Caverna do Dragão,1983,EUA,Marvel Productions,Coadjuvante,Mago,True,Vermelho
+142,Vingador,Masculino,Humano,,200,90,Caverna do Dragão,1983,EUA,Marvel Productions,Vilão,Feiticeiro,True,Preto
+143,Irmão do Jorel,Masculino,Humano,,110,22,Irmão do Jorel,2014,Brasil,Copa Studio,Protagonista,Estudante,False,Verde
+144,Jorel,Masculino,Humano,,180,70,Irmão do Jorel,2014,Brasil,Copa Studio,Coadjuvante,Nenhuma,False,Preto
+145,Vovó Juju,Feminino,Humano,,155,55,Irmão do Jorel,2014,Brasil,Copa Studio,Coadjuvante,Aposentada,False,Roxo
+146,Arnold,Masculino,Humano,9,130,28,Hey Arnold!,1996,EUA,Nickelodeon,Protagonista,Estudante,False,Azul
+147,Helga Pataki,Feminino,Humano,9,130,28,Hey Arnold!,1996,EUA,Nickelodeon,Coadjuvante,Estudante,False,Rosa
+148,Gerald Johanssen,Masculino,Humano,9,135,29,Hey Arnold!,1996,EUA,Nickelodeon,Coadjuvante,Estudante,False,Azul
+149,Doug Funnie,Masculino,Humano,11,140,35,Doug,1991,EUA,Nickelodeon,Protagonista,Estudante,False,Verde
+150,Patti Maionese,Feminino,Humano,11,145,35,Doug,1991,EUA,Nickelodeon,Coadjuvante,Estudante,False,Vermelho
+151,Johnny Bravo,Masculino,Humano,,190,95,Johnny Bravo,1997,EUA,Cartoon Network,Protagonista,Nenhuma,False,Preto
